@@ -1,17 +1,16 @@
-import React from 'react'
-import { createRoot } from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import './index.css'
-import App from './App.jsx'
-
-const router = createBrowserRouter([
-  { path: '/', element: <App /> },
-])
-
-{/*Subindo para deploy (comentario aleatorio)*/}
+import React from 'react';
+import { createRoot } from 'react-dom/client';
+import { HashRouter, Routes, Route } from 'react-router-dom';
+import './index.css';
+import App from './App.jsx';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<App />} />
+        {/* outras rotas aqui */}
+      </Routes>
+    </HashRouter>
   </React.StrictMode>
-)
+);
