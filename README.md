@@ -91,12 +91,10 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 
 ## ⚠️ Observações
 
-Esse projeto é usado pelas seguintes empresas:
-
 - Projeto não integrado com backend ou FiveM.
 - Integração com servidor FiveM pode ser realizada conforme necessidade.
 - Código aberto e livre para uso e modificação.
 
-## Autore
+## Autor
 
 - [@AndersonJunior06](https://github.com/AndersonJunior06)
