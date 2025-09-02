@@ -24,7 +24,7 @@ Node.js (versão 16 ou superior)
 2. Abra o terminal na pasta raiz do projeto e execute:
 
 ```bash
-  git clone https://github.com/AndersonJunior06/PainelAdminFiveM-Front-End.git
+  git clone https://github.com/AndersonJunior06/PainelAdminFiveM-FrontEnd.git
 ```
 
 Entre no diretório do projeto

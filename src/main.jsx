@@ -9,7 +9,6 @@ createRoot(document.getElementById('root')).render(
     <HashRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        {/* outras rotas aqui */}
       </Routes>
     </HashRouter>
   </React.StrictMode>
