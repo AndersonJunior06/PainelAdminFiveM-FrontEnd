@@ -84,9 +84,7 @@ Contribuições são bem-vindas!
 - Envie para sua branch: git push origin feature/nova-feature.
 - Abra um Pull Request para revisão.
 ## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
-
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT © 2025 Anderson Junior
 
 
 ## ⚠️ Observações
